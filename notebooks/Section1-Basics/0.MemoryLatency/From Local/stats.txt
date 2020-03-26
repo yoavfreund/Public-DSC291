@@ -1,0 +1,6 @@
+              
+creating 1 byte block: 0.000002 sec, writing 10 blocks 0.000504 sec
+              
+creating 1 byte block: 0.000001 sec, writing 1000 blocks 0.001090 sec
+              
+creating 1000000 byte block: 0.000540 sec, writing 1 blocks 0.007073 sec

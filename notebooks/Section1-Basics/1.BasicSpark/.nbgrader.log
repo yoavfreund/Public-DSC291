@@ -1,0 +1,38 @@
+[ListApp | ERROR] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[ListApp | ERROR] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[ListApp | ERROR] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[ListApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ListApp | ERROR] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[ListApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ListApp | ERROR] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/yoavfreund/projects/edX-Micro-Master-in-Data-Science/big-data-analytics-using-spark/notebooks/1.BasicSpark
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8889/?token=679329318ce31cc004e8aa215a8c9f90dc9c5500cffee58d
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=679329318ce31cc004e8aa215a8c9f90dc9c5500cffee58d
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /static/custom/dc.css (::1) 9.77ms referer=http://localhost:8889/tree?token=83e1a661030cb28af11eb0109b421d31d2f3b4d17a620282
+[NotebookApp | WARNING] 404 GET /static/custom/crossfilter.js?v=20170724185749 (::1) 2.18ms referer=http://localhost:8889/tree
+[NotebookApp | WARNING] 404 GET /static/custom/jquery.handsontable.full.js?v=20170724185749 (::1) 2.50ms referer=http://localhost:8889/tree
+[NotebookApp | WARNING] 404 GET /static/custom/d3.js?v=20170724185749 (::1) 2.06ms referer=http://localhost:8889/tree
+[NotebookApp | WARNING] 404 GET /static/custom/dc.js?v=20170724185749 (::1) 2.33ms referer=http://localhost:8889/tree
+[NotebookApp | WARNING] 404 GET /clusters?_=1500947870898 (::1) 1.82ms referer=http://localhost:8889/tree
+[NotebookApp | WARNING] 404 GET /static/custom/dc.css (::1) 2.24ms referer=http://localhost:8889/notebooks/1.%20Spark%20Basics%201_HW.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/nb_conda/main.js?v=20170724185749 (::1) 1.85ms referer=http://localhost:8889/notebooks/1.%20Spark%20Basics%201_HW.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js?v=20170724185749 (::1) 2.09ms referer=http://localhost:8889/notebooks/1.%20Spark%20Basics%201_HW.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/nb_anacondacloud/main.js?v=20170724185749 (::1) 1.93ms referer=http://localhost:8889/notebooks/1.%20Spark%20Basics%201_HW.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/rise/main.js?v=20170724185749 (::1) 2.11ms referer=http://localhost:8889/notebooks/1.%20Spark%20Basics%201_HW.ipynb
+[NotebookApp | INFO] Kernel started: 4f3fa0ec-b544-422a-bfa7-98a6db43e266
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170724185749 (::1) 2.16ms referer=http://localhost:8889/notebooks/1.%20Spark%20Basics%201_HW.ipynb
+[NotebookApp | WARNING] 404 GET /static/custom/jquery.handsontable.full.js?v=20170724185749 (::1) 1.88ms referer=http://localhost:8889/notebooks/1.%20Spark%20Basics%201_HW.ipynb
+[NotebookApp | WARNING] 404 GET /static/custom/d3.js?v=20170724185749 (::1) 1.86ms referer=http://localhost:8889/notebooks/1.%20Spark%20Basics%201_HW.ipynb
+[NotebookApp | WARNING] 404 GET /static/custom/dc.js?v=20170724185749 (::1) 2.24ms referer=http://localhost:8889/notebooks/1.%20Spark%20Basics%201_HW.ipynb
+[NotebookApp | WARNING] 404 GET /static/custom/crossfilter.js?v=20170724185749 (::1) 1.67ms referer=http://localhost:8889/notebooks/1.%20Spark%20Basics%201_HW.ipynb
+[NotebookApp | INFO] Saving file at /1. Spark Basics 1_HW.ipynb
+[NotebookApp | INFO] Saving file at /1. Spark Basics 1_HW.ipynb
