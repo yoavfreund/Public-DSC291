@@ -1,0 +1,2 @@
+Ready. IP addresses of all instances:
+34.222.177.242

@@ -47,7 +47,7 @@ if __name__=="__main__":
     chdir(log_dir)
 
     GB=random.rand(2**27)
-    for i in range(10):
+    for i in range(2):
         with open('GB%d'%i,'wb') as file:
             file.write(GB)
 
