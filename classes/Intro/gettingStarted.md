@@ -100,11 +100,15 @@ One of it's main features is that it makes it easy to create instances on **ec2*
 
 * Set the basic configuration
 > aws-jupyter config
-Please set following configuration parameters.Type Enter if the default value is correct.
-Region [None]: us-west-2
-Instance type [m3.xlarge]: 
-AMI [ami-0fc359be23c460554]: 
-Credential [None]: /Users/yoavfreund//Vault/creds.yaml
+>> Please set following configuration parameters.Type Enter if the default value is correct.
+
+>> Region [None]: us-west-2
+
+>> Instance type [m3.xlarge]: 
+
+>> AMI [ami-0fc359be23c460554]: 
+
+>> Credential [None]: /Users/yoavfreund/Vault/creds.yaml
 
 * Check AWS credentials work
 > aws-jupyter access
