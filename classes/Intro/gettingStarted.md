@@ -114,7 +114,7 @@ One of it's main features is that it makes it easy to create instances on **ec2*
 > aws-jupyter access
 
 * To start a single ec2 instance instance use:
-> aws-jupyter create -c 1 --name test_dsc291 
+> aws-jupyter create -c 1 --name test_dsc291 --region us-west-2
 
 Then issue the command
 > aws-jupyter check --name test_dsc291
