@@ -1,0 +1,42 @@
+Dear XXXXXX,
+
+The take home final has been posted. You can get it by pulling the
+class repository. The files are in the directory
+
+https://github.com/ucsd-edx/CSE255-DSE230/tree/master/Classes/Final
+
+The exam consists of three notebooks:
+
+1.Prepare daily ratio file to be read as spark Dataframe.ipynb
+2.PCA of stocks using Spark.ipynb
+3.Dimensionality.ipynb
+
+You should work on these notebooks in order because they depend on
+each other.
+
+The data files are stored separately on S3. Directions for downloading
+the files are in the first notebook.
+
+To make each exam slightly different, we ask that you remove the
+following stocks (ticker symbols) before you perform your analysis.
+
+XX,YYY,.....
+
+Remember, even though this is a take-home exam, it is still an
+exam. We trust your honesty that you will do your own work and not
+help or be helped by others, whether in the class or elsewhere. You
+are allowed to use any material you find on the web, but you cannot be
+helped by other people.
+
+Penalty for breaking this honor code will be severe.
+
+Clarification questions can be asked in class or posted on Piazza.
+
+The completed exam should be submitted to pyBolt. The deadline for
+submission is midnight between Wed 6/14 and Thu 6/15
+
+Good luck.
+
+Prof. Freund
+
+

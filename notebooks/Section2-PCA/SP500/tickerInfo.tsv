@@ -1,0 +1,506 @@
+	Ticker	Name	Sector	SECTOR_ID
+0	MMM	3M|3M Company	Industrials	INDS
+1	ABT	Abbott Laboratories	Health Care	HC
+2	ABBV	AbbVie Inc.	Health Care	HC
+3	ACN	Accenture plc	Information Technology	IT
+4	ATVI	Activision Blizzard	Information Technology	IT
+5	AYI	Acuity Brands Inc	Industrials	INDS
+6	ADBE	Adobe Systems Inc	Information Technology	IT
+7	AMD	Advanced Micro Devices Inc	Information Technology	IT
+8	AAP	Advance Auto Parts	Consumer Discretionary	CD
+9	AES	AES Corp	Utilities	UTIL
+10	AET	Aetna Inc	Health Care	HC
+11	AMG	Affiliated Managers Group Inc	Financials	FIN
+12	AFL	AFLAC Inc	Financials	FIN
+13	A	Agilent Technologies Inc	Health Care	HC
+14	APD	Air Products & Chemicals Inc	Materials	MAT
+15	AKAM	Akamai Technologies Inc	Information Technology	IT
+16	ALK	Alaska Air Group Inc	Industrials	INDS
+17	ALB	Albemarle Corp	Materials	MAT
+18	ARE	Alexandria Real Estate Equities Inc	Real Estate	RE
+19	ALXN	Alexion Pharmaceuticals	Health Care	HC
+20	ALLE	Allegion	Industrials	INDS
+21	AGN	Allergan, Plc	Health Care	HC
+22	ADS	Alliance Data Systems	Information Technology	IT
+23	LNT	Alliant Energy Corp	Utilities	UTIL
+24	ALL	Allstate Corp	Financials	FIN
+25	GOOGL	Alphabet Inc.|Alphabet Inc Class A	Information Technology	IT
+26	GOOG	Alphabet Inc.|Alphabet Inc Class C	Information Technology	IT
+27	MO	Altria Group Inc	Consumer Staples	CS
+28	AMZN	Amazon.com Inc	Consumer Discretionary	CD
+29	AEE	Ameren Corp	Utilities	UTIL
+30	AAL	American Airlines Group	Industrials	INDS
+31	AEP	American Electric Power	Utilities	UTIL
+32	AXP	American Express Co	Financials	FIN
+33	AIG	American International Group|American International Group, Inc.	Financials	FIN
+34	AMT	American Tower Corp A	Real Estate	RE
+35	AWK	American Water Works|American Water Works Company Inc	Utilities	UTIL
+36	AMP	Ameriprise Financial	Financials	FIN
+37	ABC	AmerisourceBergen Corp	Health Care	HC
+38	AME	Ametek|AMETEK Inc	Industrials	INDS
+39	AMGN	Amgen Inc	Health Care	HC
+40	APH	Amphenol|Amphenol Corp	Information Technology	IT
+41	APC	Anadarko Petroleum|Anadarko Petroleum Corp	Energy	EN
+42	ADI	Analog Devices|Analog Devices, Inc.	Information Technology	IT
+43	ANTM	Anthem Inc.	Health Care	HC
+44	AON	Aon plc	Financials	FIN
+45	APA	Apache Corporation	Energy	EN
+46	AIV	Apartment Investment & Management	Real Estate	RE
+47	AAPL	Apple Inc.	Information Technology	IT
+48	AMAT	Applied Materials Inc	Information Technology	IT
+49	ADM	Archer-Daniels-Midland Co	Consumer Staples	CS
+50	ARNC	Arconic Inc	Industrials	INDS
+51	AJG	Arthur J. Gallagher & Co.	Financials	FIN
+52	AIZ	Assurant Inc	Financials	FIN
+53	T	AT&T Inc	Telecommunication Services	TS
+54	ADSK	Autodesk Inc	Information Technology	IT
+55	ADP	Automatic Data Processing	Information Technology	IT
+56	AN	AutoNation Inc	Consumer Discretionary	CD
+57	AZO	AutoZone Inc	Consumer Discretionary	CD
+58	AVB	AvalonBay Communities, Inc.	Real Estate	RE
+59	AVY	Avery Dennison Corp	Materials	MAT
+60	BHI	Baker Hughes Inc	Energy	EN
+61	BLL	Ball Corp	Materials	MAT
+62	BAC	Bank of America Corp	Financials	FIN
+63	BK	The Bank of New York Mellon Corp.	Financials	FIN
+64	BCR	Bard (C.R.) Inc.	Health Care	HC
+65	BAX	Baxter International Inc.	Health Care	HC
+66	BBT	BB&T Corporation	Financials	FIN
+67	BDX	Becton Dickinson	Health Care	HC
+68	BBBY	Bed Bath & Beyond	Consumer Discretionary	CD
+69	BRK.B	Berkshire Hathaway	Financials	FIN
+70	BBY	Best Buy Co. Inc.	Consumer Discretionary	CD
+71	BIIB	Biogen Inc.	Health Care	HC
+72	BLK	BlackRock	Financials	FIN
+73	HRB	Block H&R	Financials	FIN
+74	BA	Boeing Company	Industrials	INDS
+75	BWA	BorgWarner	Consumer Discretionary	CD
+76	BXP	Boston Properties	Real Estate	RE
+77	BSX	Boston Scientific	Health Care	HC
+78	BMY	Bristol-Myers Squibb	Health Care	HC
+79	AVGO	Broadcom Limited|Broadcom	Information Technology	IT
+80	BF.B	Brown-Forman Corp.	Consumer Staples	CS
+81	CHRW	C. H. Robinson Worldwide	Industrials	INDS
+82	CA	CA, Inc.	Information Technology	IT
+83	COG	Cabot Oil & Gas	Energy	EN
+84	CPB	Campbell Soup	Consumer Staples	CS
+85	COF	Capital One Financial	Financials	FIN
+86	CAH	Cardinal Health	Health Care	HC
+87	CBOE	Cboe Holdings|CBOE Holdings	Financials	FIN
+88	KMX	Carmax Inc	Consumer Discretionary	CD
+89	CCL	Carnival Corp.	Consumer Discretionary	CD
+90	CAT	Caterpillar Inc.	Industrials	INDS
+91	CBG	CBRE Group	Real Estate	RE
+92	CBS	CBS Corp.	Consumer Discretionary	CD
+93	CELG	Celgene Corp.	Health Care	HC
+94	CNC	Centene Corporation	Health Care	HC
+95	CNP	CenterPoint Energy	Utilities	UTIL
+96	CTL	CenturyLink Inc	Telecommunication Services	TS
+97	CERN	Cerner	Health Care	HC
+98	CF	CF Industries Holdings Inc	Materials	MAT
+99	SCHW	Charles Schwab Corporation	Financials	FIN
+100	CHTR	Charter Communications	Consumer Discretionary	CD
+101	CHK	Chesapeake Energy	Energy	EN
+102	CVX	Chevron Corp.	Energy	EN
+103	CMG	Chipotle Mexican Grill	Consumer Discretionary	CD
+104	CB	Chubb Limited	Financials	FIN
+105	CHD	Church & Dwight	Consumer Staples	CS
+106	CI	CIGNA Corp.	Health Care	HC
+107	XEC	Cimarex Energy	Energy	EN
+108	CINF	Cincinnati Financial	Financials	FIN
+109	CTAS	Cintas Corporation	Industrials	INDS
+110	CSCO	Cisco Systems	Information Technology	IT
+111	C	Citigroup Inc.	Financials	FIN
+112	CFG	Citizens Financial Group	Financials	FIN
+113	CTXS	Citrix Systems	Information Technology	IT
+114	CLX	The Clorox Company	Consumer Staples	CS
+115	CME	CME Group Inc.	Financials	FIN
+116	CMS	CMS Energy	Utilities	UTIL
+117	COH	Coach Inc.	Consumer Discretionary	CD
+118	KO	Coca-Cola Company	Consumer Staples	CS
+119	CTSH	Cognizant Technology Solutions	Information Technology	IT
+120	CL	Colgate-Palmolive	Consumer Staples	CS
+121	CMCSA	Comcast Corp.	Consumer Discretionary	CD
+122	CMA	Comerica Inc.	Financials	FIN
+123	CAG	Conagra Brands	Consumer Staples	CS
+124	CXO	Concho Resources	Energy	EN
+125	COP	ConocoPhillips	Energy	EN
+126	ED	Consolidated Edison	Utilities	UTIL
+127	STZ	Constellation Brands	Consumer Staples	CS
+128	COO	The Cooper Companies	Health Care	HC
+129	GLW	Corning Inc.	Information Technology	IT
+130	COST	Costco Wholesale Corp.	Consumer Staples	CS
+131	COTY	Coty, Inc	Consumer Staples	CS
+132	CCI	Crown Castle International Corp.	Real Estate	RE
+133	CSRA	CSRA (IT services company)|CSRA Inc.	Information Technology	IT
+134	CSX	CSX Corp.	Industrials	INDS
+135	CMI	Cummins Inc.	Industrials	INDS
+136	CVS	CVS Health	Consumer Staples	CS
+137	DHI	D. R. Horton	Consumer Discretionary	CD
+138	DHR	Danaher Corp.	Health Care	HC
+139	DRI	Darden Restaurants	Consumer Discretionary	CD
+140	DVA	DaVita	Health Care	HC
+141	DE	Deere & Co.	Industrials	INDS
+142	DLPH	Delphi Automotive	Consumer Discretionary	CD
+143	DAL	Delta Air Lines	Industrials	INDS
+144	XRAY	Dentsply Sirona	Health Care	HC
+145	DVN	Devon Energy	Energy	EN
+146	DLR	Digital Realty	Real Estate	RE
+147	DFS	Discover Financial Services	Financials	FIN
+148	DISCA	Discovery Communications	Consumer Discretionary	CD
+149	DISCK	Discovery Communications	Consumer Discretionary	CD
+150	DISH	Dish Network	Consumer Discretionary	CD
+151	DG	Dollar General	Consumer Discretionary	CD
+152	DLTR	Dollar Tree	Consumer Discretionary	CD
+153	D	Dominion Resources	Utilities	UTIL
+154	DOV	Dover Corp.	Industrials	INDS
+155	DOW	Dow Chemical	Materials	MAT
+156	DPS	Dr Pepper Snapple Group	Consumer Staples	CS
+157	DTE	DTE Energy	Utilities	UTIL
+158	DD	Du Pont (E.I.)	Materials	MAT
+159	DUK	Duke Energy	Utilities	UTIL
+160	DXC	DXC Technology	Information Technology	IT
+161	ETFC	E*Trade	Financials	FIN
+162	EMN	Eastman Chemical	Materials	MAT
+163	ETN	Eaton Corporation	Industrials	INDS
+164	EBAY	eBay	Information Technology	IT
+165	ECL	Ecolab	Materials	MAT
+166	EIX	Edison Int'l	Utilities	UTIL
+167	EW	Edwards Lifesciences	Health Care	HC
+168	EA	Electronic Arts	Information Technology	IT
+169	EMR	Emerson Electric Company	Industrials	INDS
+170	ETR	Entergy Corp.	Utilities	UTIL
+171	EVHC	Envision Healthcare	Health Care	HC
+172	EOG	EOG Resources	Energy	EN
+173	EQT	EQT Corporation	Energy	EN
+174	EFX	Equifax Inc.	Industrials	INDS
+175	EQIX	Equinix	Real Estate	RE
+176	EQR	Equity Residential	Real Estate	RE
+177	ESS	Essex Property Trust, Inc.	Real Estate	RE
+178	EL	Estee Lauder Cos.	Consumer Staples	CS
+179	ES	Eversource Energy	Utilities	UTIL
+180	EXC	Exelon Corp.	Utilities	UTIL
+181	EXPE	Expedia Inc.	Consumer Discretionary	CD
+182	EXPD	Expeditors International	Industrials	INDS
+183	ESRX	Express Scripts	Health Care	HC
+184	EXR	Extra Space Storage	Real Estate	RE
+185	XOM	Exxon Mobil Corp.	Energy	EN
+186	FFIV	F5 Networks	Information Technology	IT
+187	FB	Facebook, Inc.	Information Technology	IT
+188	FAST	Fastenal Co	Industrials	INDS
+189	FRT	Federal Realty Investment Trust	Real Estate	RE
+190	FDX	FedEx Corporation	Industrials	INDS
+191	FIS	Fidelity National Information Services	Information Technology	IT
+192	FITB	Fifth Third Bancorp	Financials	FIN
+193	FE	FirstEnergy Corp	Utilities	UTIL
+194	FISV	Fiserv Inc	Information Technology	IT
+195	FLIR	FLIR Systems	Information Technology	IT
+196	FLS	Flowserve Corporation	Industrials	INDS
+197	FLR	Fluor Corp.	Industrials	INDS
+198	FMC	FMC Corporation	Materials	MAT
+199	FL	Foot Locker Inc	Consumer Discretionary	CD
+200	F	Ford Motor	Consumer Discretionary	CD
+201	FTV	Fortive Corp	Industrials	INDS
+202	FBHS	Fortune Brands Home & Security	Industrials	INDS
+203	BEN	Franklin Resources	Financials	FIN
+204	FCX	Freeport-McMoRan Inc.	Materials	MAT
+205	GPS	Gap Inc.	Consumer Discretionary	CD
+206	GRMN	Garmin Ltd.	Consumer Discretionary	CD
+207	IT	Gartner|Gartner Inc	Information Technology	IT
+208	GD	General Dynamics	Industrials	INDS
+209	GE	General Electric	Industrials	INDS
+210	GGP	General Growth Properties Inc.	Real Estate	RE
+211	GIS	General Mills	Consumer Staples	CS
+212	GM	General Motors	Consumer Discretionary	CD
+213	GPC	Genuine Parts	Consumer Discretionary	CD
+214	GILD	Gilead Sciences	Health Care	HC
+215	GPN	Heartland Payment Systems|Global Payments Inc	Information Technology	IT
+216	GS	Goldman Sachs Group	Financials	FIN
+217	GT	Goodyear Tire & Rubber	Consumer Discretionary	CD
+218	GWW	Grainger (W.W.) Inc.	Industrials	INDS
+219	HAL	Halliburton Co.	Energy	EN
+220	HBI	Hanesbrands Inc	Consumer Discretionary	CD
+221	HOG	Harley-Davidson	Consumer Discretionary	CD
+222	HRS	Harris Corporation	Information Technology	IT
+223	HIG	Hartford Financial Svc.Gp.	Financials	FIN
+224	HAS	Hasbro Inc.	Consumer Discretionary	CD
+225	HCA	HCA Holdings	Health Care	HC
+226	HCP	HCP Inc.	Real Estate	RE
+227	HP	Helmerich & Payne	Energy	EN
+228	HSIC	Henry Schein	Health Care	HC
+229	HSY	The Hershey Company	Consumer Staples	CS
+230	HES	Hess Corporation	Energy	EN
+231	HPE	Hewlett Packard Enterprise	Information Technology	IT
+232	HOLX	Hologic	Health Care	HC
+233	HD	Home Depot	Consumer Discretionary	CD
+234	HON	Honeywell Int'l Inc.	Industrials	INDS
+235	HRL	Hormel Foods Corp.	Consumer Staples	CS
+236	HST	Host Hotels & Resorts	Real Estate	RE
+237	HPQ	HP Inc.	Information Technology	IT
+238	HUM	Humana Inc.	Health Care	HC
+239	HBAN	Huntington Bancshares	Financials	FIN
+240	IDXX	Idexx Laboratories|IDEXX Laboratories	Health Care	HC
+241	INFO	IHS Markit|IHS Markit Ltd.	Industrials	INDS
+242	ITW	Illinois Tool Works	Industrials	INDS
+243	ILMN	Illumina (company)|Illumina Inc	Health Care	HC
+244	IR	Ingersoll-Rand PLC	Industrials	INDS
+245	INTC	Intel Corp.	Information Technology	IT
+246	ICE	Intercontinental Exchange	Financials	FIN
+247	IBM	IBM|International Business Machines	Information Technology	IT
+248	INCY	Incyte	Health Care	HC
+249	IP	International Paper	Materials	MAT
+250	IPG	Interpublic Group	Consumer Discretionary	CD
+251	IFF	Intl Flavors & Fragrances	Materials	MAT
+252	INTU	Intuit	Information Technology	IT
+253	ISRG	Intuitive Surgical Inc.	Health Care	HC
+254	IVZ	Invesco Ltd.	Financials	FIN
+255	IRM	Iron Mountain Incorporated	Real Estate	RE
+256	JEC	Jacobs Engineering Group	Industrials	INDS
+257	JBHT	J. B. Hunt Transport Services	Industrials	INDS
+258	SJM	JM Smucker	Consumer Staples	CS
+259	JNJ	Johnson & Johnson	Health Care	HC
+260	JCI	Johnson Controls|Johnson Controls International	Industrials	INDS
+261	JPM	JPMorgan Chase & Co.	Financials	FIN
+262	JNPR	Juniper Networks	Information Technology	IT
+263	KSU	Kansas City Southern (company)|Kansas City Southern	Industrials	INDS
+264	K	Kellogg Co.	Consumer Staples	CS
+265	KEY	KeyCorp	Financials	FIN
+266	KMB	Kimberly-Clark	Consumer Staples	CS
+267	KIM	Kimco Realty	Real Estate	RE
+268	KMI	Kinder Morgan	Energy	EN
+269	KLAC	KLA-Tencor Corp.	Information Technology	IT
+270	KSS	Kohl's	Consumer Discretionary	CD
+271	KHC	Kraft Heinz	Consumer Staples	CS
+272	KR	Kroger Co.	Consumer Staples	CS
+273	LB	L Brands Inc.	Consumer Discretionary	CD
+274	LLL	L-3 Communications Holdings	Industrials	INDS
+275	LH	Laboratory Corp. of America Holding	Health Care	HC
+276	LRCX	Lam Research	Information Technology	IT
+277	LEG	Leggett & Platt	Consumer Discretionary	CD
+278	LEN	Lennar Corp.	Consumer Discretionary	CD
+279	LVLT	Level 3 Communications	Telecommunication Services	TS
+280	LUK	Leucadia National Corp.	Financials	FIN
+281	LLY	Lilly (Eli) & Co.	Health Care	HC
+282	LNC	Lincoln National	Financials	FIN
+283	LKQ	LKQ Corporation	Consumer Discretionary	CD
+284	LMT	Lockheed Martin Corp.	Industrials	INDS
+285	L	Loews Corp.	Financials	FIN
+286	LOW	Lowe's Cos.	Consumer Discretionary	CD
+287	LYB	LyondellBasell	Materials	MAT
+288	MTB	M&T Bank Corp.	Financials	FIN
+289	MAC	Macerich	Real Estate	RE
+290	M	Macy's Inc.	Consumer Discretionary	CD
+291	MNK	Mallinckrodt Plc	Health Care	HC
+292	MRO	Marathon Oil Corp.	Energy	EN
+293	MPC	Marathon Petroleum	Energy	EN
+294	MAR	Marriott Int'l.	Consumer Discretionary	CD
+295	MMC	Marsh & McLennan	Financials	FIN
+296	MLM	Martin Marietta Materials	Materials	MAT
+297	MAS	Masco Corp.	Industrials	INDS
+298	MA	Mastercard Inc.	Information Technology	IT
+299	MAT	Mattel Inc.	Consumer Discretionary	CD
+300	MKC	McCormick & Co.	Consumer Staples	CS
+301	MCD	McDonald's Corp.	Consumer Discretionary	CD
+302	MCK	McKesson Corp.	Health Care	HC
+303	MJN	Mead Johnson	Consumer Staples	CS
+304	MDT	Medtronic plc	Health Care	HC
+305	MRK	Merck & Co.	Health Care	HC
+306	MET	MetLife Inc.	Financials	FIN
+307	MTD	Mettler Toledo	Health Care	HC
+308	KORS	Michael Kors (brand)|Michael Kors Holdings	Consumer Discretionary	CD
+309	MCHP	Microchip Technology	Information Technology	IT
+310	MU	Micron Technology	Information Technology	IT
+311	MSFT	Microsoft Corp.	Information Technology	IT
+312	MAA	Mid-America Apartments	Real Estate	RE
+313	MHK	Mohawk Industries	Consumer Discretionary	CD
+314	TAP	Molson Coors Brewing Company	Consumer Staples	CS
+315	MDLZ	Mondelez|Mondelez International	Consumer Staples	CS
+316	MON	Monsanto Co.	Materials	MAT
+317	MNST	Monster Beverage	Consumer Staples	CS
+318	MCO	Moody's Corp	Financials	FIN
+319	MS	Morgan Stanley	Financials	FIN
+320	MOS	The Mosaic Company	Materials	MAT
+321	MSI	Motorola Solutions Inc.	Information Technology	IT
+322	MUR	Murphy Oil	Energy	EN
+323	MYL	Mylan N.V.	Health Care	HC
+324	NDAQ	Nasdaq, Inc.	Financials	FIN
+325	NOV	National Oilwell Varco Inc.	Energy	EN
+326	NAVI	Navient	Financials	FIN
+327	NTAP	NetApp	Information Technology	IT
+328	NFLX	Netflix Inc.	Information Technology	IT
+329	NWL	Newell Brands	Consumer Discretionary	CD
+330	NFX	Newfield Exploration Co	Energy	EN
+331	NEM	Newmont Mining Corporation	Materials	MAT
+332	NWSA	News Corp. Class A	Consumer Discretionary	CD
+333	NWS	News Corp. Class B	Consumer Discretionary	CD
+334	NEE	NextEra Energy	Utilities	UTIL
+335	NLSN	Nielsen Holdings	Industrials	INDS
+336	NKE	Nike (company)|Nike	Consumer Discretionary	CD
+337	NI	NiSource Inc.	Utilities	UTIL
+338	NBL	Noble Energy Inc	Energy	EN
+339	JWN	Nordstrom	Consumer Discretionary	CD
+340	NSC	Norfolk Southern Corp.	Industrials	INDS
+341	NTRS	Northern Trust Corp.	Financials	FIN
+342	NOC	Northrop Grumman Corp.	Industrials	INDS
+343	NRG	NRG Energy	Utilities	UTIL
+344	NUE	Nucor Corp.	Materials	MAT
+345	NVDA	Nvidia Corporation	Information Technology	IT
+346	ORLY	O'Reilly Automotive	Consumer Discretionary	CD
+347	OXY	Occidental Petroleum	Energy	EN
+348	OMC	Omnicom Group	Consumer Discretionary	CD
+349	OKE	ONEOK	Energy	EN
+350	ORCL	Oracle Corp.	Information Technology	IT
+351	PCAR	PACCAR Inc.	Industrials	INDS
+352	PH	Parker-Hannifin	Industrials	INDS
+353	PDCO	Patterson Companies	Health Care	HC
+354	PAYX	Paychex Inc.	Information Technology	IT
+355	PYPL	PayPal	Information Technology	IT
+356	PNR	Pentair|Pentair Ltd.	Industrials	INDS
+357	PBCT	People's United Financial	Financials	FIN
+358	PEP	PepsiCo Inc.	Consumer Staples	CS
+359	PKI	PerkinElmer	Health Care	HC
+360	PRGO	Perrigo	Health Care	HC
+361	PFE	Pfizer Inc.	Health Care	HC
+362	PCG	PG&E Corp.	Utilities	UTIL
+363	PM	Philip Morris International	Consumer Staples	CS
+364	PSX	Phillips 66	Energy	EN
+365	PNW	Arizona Public Service#Pinnacle West Capital|Pinnacle West Capital	Utilities	UTIL
+366	PXD	Pioneer Natural Resources	Energy	EN
+367	PNC	PNC Financial Services	Financials	FIN
+368	RL	Polo Ralph Lauren Corp.	Consumer Discretionary	CD
+369	PPG	PPG Industries	Materials	MAT
+370	PPL	PPL Corp.	Utilities	UTIL
+371	PX	Praxair Inc.	Materials	MAT
+372	PCLN	The Priceline Group|Priceline.com Inc	Consumer Discretionary	CD
+373	PFG	Principal Financial Group	Financials	FIN
+374	PG	Procter & Gamble	Consumer Staples	CS
+375	PGR	Progressive Corp.	Financials	FIN
+376	PLD	Prologis	Real Estate	RE
+377	PRU	Prudential Financial	Financials	FIN
+378	PEG	Public Serv. Enterprise Inc.	Utilities	UTIL
+379	PSA	Public Storage	Real Estate	RE
+380	PHM	Pulte Homes Inc.	Consumer Discretionary	CD
+381	PVH	PVH Corp.	Consumer Discretionary	CD
+382	QRVO	Qorvo	Information Technology	IT
+383	PWR	Quanta Services Inc.	Industrials	INDS
+384	QCOM	QUALCOMM Inc.	Information Technology	IT
+385	DGX	Quest Diagnostics	Health Care	HC
+386	RRC	Range Resources|Range Resources Corp.	Energy	EN
+387	RJF	Raymond James Financial Inc.	Financials	FIN
+388	RTN	Raytheon Co.	Industrials	INDS
+389	O	Realty Income Corporation	Real Estate	RE
+390	RHT	Red Hat Inc.	Information Technology	IT
+391	REG	Regency Centers Corporation	Real Estate	RE
+392	REGN	Regeneron	Health Care	HC
+393	RF	Regions Financial Corp.	Financials	FIN
+394	RSG	Republic Services Inc	Industrials	INDS
+395	RAI	Reynolds American Inc.	Consumer Staples	CS
+396	RHI	Robert Half International	Industrials	INDS
+397	ROK	Rockwell Automation Inc.	Industrials	INDS
+398	COL	Rockwell Collins	Industrials	INDS
+399	ROP	Roper Technologies	Industrials	INDS
+400	ROST	Ross Stores	Consumer Discretionary	CD
+401	RCL	Royal Caribbean Cruises Ltd	Consumer Discretionary	CD
+402	R	Ryder System	Industrials	INDS
+403	CRM	Salesforce.com	Information Technology	IT
+404	SCG	SCANA Corp	Utilities	UTIL
+405	SLB	Schlumberger Ltd.	Energy	EN
+406	SNI	Scripps Networks Interactive Inc.	Consumer Discretionary	CD
+407	STX	Seagate Technology	Information Technology	IT
+408	SEE	Sealed Air Corp.(New)|Sealed Air	Materials	MAT
+409	SRE	Sempra Energy	Utilities	UTIL
+410	SHW	Sherwin-Williams	Materials	MAT
+411	SIG	Signet Jewelers	Consumer Discretionary	CD
+412	SPG	Simon Property Group Inc	Real Estate	RE
+413	SWKS	Skyworks Solutions	Information Technology	IT
+414	SLG	SL Green Realty	Real Estate	RE
+415	SNA	Snap-On Inc.	Consumer Discretionary	CD
+416	SO	Southern Co.	Utilities	UTIL
+417	LUV	Southwest Airlines	Industrials	INDS
+418	SPGI	S&P Global, Inc.	Financials	FIN
+419	SWK	Stanley Black & Decker	Consumer Discretionary	CD
+420	SPLS	Staples Inc.	Consumer Discretionary	CD
+421	SBUX	Starbucks Corp.	Consumer Discretionary	CD
+422	STT	State Street Corp.	Financials	FIN
+423	SRCL	Stericycle Inc	Industrials	INDS
+424	SYK	Stryker Corp.	Health Care	HC
+425	STI	SunTrust Banks	Financials	FIN
+426	SYMC	Symantec Corp.	Information Technology	IT
+427	SYF	Synchrony Financial	Financials	FIN
+428	SNPS	Synopsys Inc.	Information Technology	IT
+429	SYY	Sysco Corp.	Consumer Staples	CS
+430	TROW	T. Rowe Price Group	Financials	FIN
+431	TGT	Target Corp.	Consumer Discretionary	CD
+432	TEL	TE Connectivity|TE Connectivity Ltd.	Information Technology	IT
+433	FTI	TechnipFMC	Energy	EN
+434	TDC	Teradata Corp.	Information Technology	IT
+435	TSO	Tesoro Petroleum Co.	Energy	EN
+436	TXN	Texas Instruments	Information Technology	IT
+437	TXT	Textron Inc.	Industrials	INDS
+438	TMO	Thermo Fisher Scientific	Health Care	HC
+439	TIF	Tiffany & Co.	Consumer Discretionary	CD
+440	TWX	Time Warner Inc.	Consumer Discretionary	CD
+441	TJX	TJX Companies Inc.	Consumer Discretionary	CD
+442	TMK	Torchmark Corp.	Financials	FIN
+443	TSS	Total System Services	Information Technology	IT
+444	TSCO	Tractor Supply Company	Consumer Discretionary	CD
+445	TDG	TransDigm Group	Industrials	INDS
+446	RIG	Transocean	Energy	EN
+447	TRV	The Travelers Companies Inc.	Financials	FIN
+448	TRIP	TripAdvisor	Consumer Discretionary	CD
+449	FOXA	Twenty-First Century Fox Class A	Consumer Discretionary	CD
+450	FOX	Twenty-First Century Fox Class B	Consumer Discretionary	CD
+451	TSN	Tyson Foods	Consumer Staples	CS
+452	UDR	UDR Inc	Real Estate	RE
+453	ULTA	Ulta Beauty|Ulta Salon Cosmetics & Fragrance Inc	Consumer Discretionary	CD
+454	USB	U.S. Bancorp	Financials	FIN
+455	UA	Under Armour	Consumer Discretionary	CD
+456	UAA	Under Armour	Consumer Discretionary	CD
+457	UNP	Union Pacific	Industrials	INDS
+458	UAL	United Continental Holdings	Industrials	INDS
+459	UNH	United Health Group Inc.	Health Care	HC
+460	UPS	United Parcel Service	Industrials	INDS
+461	URI	United Rentals, Inc.	Industrials	INDS
+462	UTX	United Technologies	Industrials	INDS
+463	UHS	Universal Health Services, Inc.	Health Care	HC
+464	UNM	Unum Group	Financials	FIN
+465	VFC	V.F. Corp.	Consumer Discretionary	CD
+466	VLO	Valero Energy	Energy	EN
+467	VAR	Varian Medical Systems	Health Care	HC
+468	VTR	Ventas Inc	Real Estate	RE
+469	VRSN	Verisign Inc.	Information Technology	IT
+470	VRSK	Verisk Analytics	Industrials	INDS
+471	VZ	Verizon Communications	Telecommunication Services	TS
+472	VRTX	Vertex Pharmaceuticals Inc	Health Care	HC
+473	VIAB	Viacom Inc.	Consumer Discretionary	CD
+474	V	Visa Inc.	Information Technology	IT
+475	VNO	Vornado Realty Trust	Real Estate	RE
+476	VMC	Vulcan Materials	Materials	MAT
+477	WMT	Wal-Mart Stores	Consumer Staples	CS
+478	WBA	Walgreens Boots Alliance	Consumer Staples	CS
+479	DIS	The Walt Disney Company	Consumer Discretionary	CD
+480	WM	Waste Management Inc.	Industrials	INDS
+481	WAT	Waters Corporation	Health Care	HC
+482	WEC	Wec Energy Group Inc	Utilities	UTIL
+483	WFC	Wells Fargo	Financials	FIN
+484	HCN	Welltower Inc.	Real Estate	RE
+485	WDC	Western Digital	Information Technology	IT
+486	WU	Western Union Co	Information Technology	IT
+487	WRK	WestRock Company	Materials	MAT
+488	WY	Weyerhaeuser Corp.	Real Estate	RE
+489	WHR	Whirlpool Corp.	Consumer Discretionary	CD
+490	WFM	Whole Foods Market	Consumer Staples	CS
+491	WMB	Williams Cos.	Energy	EN
+492	WLTW	Willis Towers Watson	Financials	FIN
+493	WYN	Wyndham Worldwide	Consumer Discretionary	CD
+494	WYNN	Wynn Resorts Ltd	Consumer Discretionary	CD
+495	XEL	Xcel Energy Inc	Utilities	UTIL
+496	XRX	Xerox Corp.	Information Technology	IT
+497	XLNX	Xilinx Inc	Information Technology	IT
+498	XL	XL Capital	Financials	FIN
+499	XYL	Xylem Inc.	Industrials	INDS
+500	YHOO	Yahoo Inc.	Information Technology	IT
+501	YUM	Yum! Brands Inc	Consumer Discretionary	CD
+502	ZBH	Zimmer Holdings|Zimmer Biomet Holdings	Health Care	HC
+503	ZION	Zions Bancorp	Financials	FIN
+504	ZTS	Zoetis	Health Care	HC
