@@ -23,7 +23,6 @@ We store credentials in two files:
 > Yoav_DSC291:   
 >>  access\_key\_id: AKI ..... X2  
 >>  secret\_access\_key: GG .... ZZ  
->>  email\_address: yfreund@eng.ucsd.edu 
 >>  key\_name: YoavDSC291KeyPair  
 >>  ssh\_key: /Users/yoavfreund/.ssh/YoavDSC291KeyPair.pem  
 
