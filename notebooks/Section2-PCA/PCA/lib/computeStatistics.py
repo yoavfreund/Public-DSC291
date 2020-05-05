@@ -6,18 +6,18 @@ from numpy_pack import packArray,unpackArray
 from spark_PCA import computeCov
 from time import time
 
-def computeStatistics(sqlContext,df):
+def computeStatistics(sqlContext,df,measurements=['TMAX', 'SNOW', 'SNWD', 'TMIN', 'PRCP', 'TOBS']):
     """Compute all of the statistics for a given dataframe
     Input: sqlContext: to perform SQL queries
             df: dataframe with the fields 
             Station(string), Measurement(string), Year(integer), Values (byteArray with 365 float16 numbers)
+            measurements= a list of measurement types for which we want to do the analysis
     returns: STAT, a dictionary of dictionaries. First key is measurement, 
              second keys described in computeStats.STAT_Descriptions
     """
 
     sqlContext.registerDataFrameAsTable(df,'weather')
     STAT={}  # dictionary storing the statistics for each measurement
-    measurements=['TMAX', 'SNOW', 'SNWD', 'TMIN', 'PRCP', 'TOBS']
     
     for meas in measurements:
         t=time()
@@ -32,9 +32,10 @@ def computeStatistics(sqlContext,df):
 
         # compute covariance matrix
         OUT=computeCov(data)
-
+        cov=OUT['Cov']
+        cov=np.nan_to_num(cov)
         #find PCA decomposition
-        eigval,eigvec=LA.eig(OUT['Cov'])
+        eigval,eigvec=LA.eig(cov)
 
         # collect all of the statistics in STAT[meas]
         STAT[meas]['eigval']=eigval
@@ -91,5 +92,4 @@ STAT_Descriptions=[
  ('eigval', 'PCA eigen-values', (365,)),
  ('eigvec', 'PCA eigen-vectors', (365, 365))
 ]
-
 
