@@ -1,0 +1,33 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/yoavfreund/projects/edX-Micro-Master-in-Data-Science/big-data-analytics-using-spark/notebooks/4.K-Means
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=50a76bf46ed8596a1cf7ac87fbfd6f40da00b12261f68ff2
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=50a76bf46ed8596a1cf7ac87fbfd6f40da00b12261f68ff2
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /static/custom/dc.css (::1) 14.65ms referer=http://localhost:8888/tree?token=4a4bb5cd3d9aeae60d6b28d00cf34bd8cf6b6a37df660d33
+[NotebookApp | WARNING] 404 GET /static/custom/jquery.handsontable.full.js?v=20180130175106 (::1) 1.78ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] 404 GET /static/custom/d3.js?v=20180130175106 (::1) 1.37ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] 404 GET /static/custom/crossfilter.js?v=20180130175106 (::1) 1.65ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] 404 GET /static/custom/dc.js?v=20180130175106 (::1) 2.73ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] 404 GET /clusters?_=1517363468847 (::1) 1.70ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] 404 GET /static/custom/dc.css (::1) 2.22ms referer=http://localhost:8888/notebooks/k-means.ipynb
+[NotebookApp | WARNING] Notebook k-means.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 0b7b6e6c-f630-4ae6-a4d4-f8f46bdf73bb
+[NotebookApp | WARNING] 404 GET /nbextensions/nbpresent/js/nbpresent.min.js?v=20180130175106 (::1) 2.14ms referer=http://localhost:8888/notebooks/k-means.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/nb_anacondacloud/main.js?v=20180130175106 (::1) 1.50ms referer=http://localhost:8888/notebooks/k-means.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/nb_conda/main.js?v=20180130175106 (::1) 1.47ms referer=http://localhost:8888/notebooks/k-means.ipynb
+[NotebookApp | WARNING] 404 GET /static/custom/jquery.handsontable.full.js?v=20180130175106 (::1) 2.04ms referer=http://localhost:8888/notebooks/k-means.ipynb
+[NotebookApp | WARNING] 404 GET /static/custom/crossfilter.js?v=20180130175106 (::1) 1.32ms referer=http://localhost:8888/notebooks/k-means.ipynb
+[NotebookApp | WARNING] 404 GET /static/custom/d3.js?v=20180130175106 (::1) 1.40ms referer=http://localhost:8888/notebooks/k-means.ipynb
+[NotebookApp | WARNING] 404 GET /static/custom/dc.js?v=20180130175106 (::1) 1.60ms referer=http://localhost:8888/notebooks/k-means.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180130175106 (::1) 1.50ms referer=http://localhost:8888/notebooks/k-means.ipynb
+[NotebookApp | INFO] Saving file at /k-means.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook k-means.ipynb
+[NotebookApp | WARNING] No such file or directory: 
+[NotebookApp | WARNING] 404 GET /api/contents?type=directory&_=1517363468855 (::1) 4.76ms referer=http://localhost:8888/tree
