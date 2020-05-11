@@ -193,3 +193,70 @@
 [NotebookApp | INFO] Starting buffering for e1fb0f2a-a03d-4e90-a6fa-5ca710c319d6:e4591d350c7f4b398b375a2f1b0f2f55
 [NotebookApp | INFO] Starting buffering for 44c519c3-c4a6-4fbc-b09f-4fd9068d317a:cfffa30a5f8547cd92ab90336f1db0e1
 [NotebookApp | INFO] Starting buffering for a87cedad-2f10-49aa-9001-bc364a642b90:e158acf2a4b1485c892f1c3e9e6b478f
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Section3-Kmeans-dim-reduction/BasicAnalysis/plot_color_quantization.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200507234010 (172.17.0.1) 12.19ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/plot_color_quantization.ipynb
+[NotebookApp | INFO] Kernel started: f4898874-98b0-414a-8e9f-d81a83db47b5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f4898874-98b0-414a-8e9f-d81a83db47b5
+[NotebookApp | WARNING] Notebook Section3-Kmeans-dim-reduction/BasicAnalysis/plot_cluster_iris.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c2cdad9c-253a-470d-8af5-1b487ee81d69
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200507234010 (172.17.0.1) 3.29ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/plot_cluster_iris.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c2cdad9c-253a-470d-8af5-1b487ee81d69
+[NotebookApp | WARNING] Notebook Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200507234010 (172.17.0.1) 3.89ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.ipynb
+[NotebookApp | INFO] Kernel started: 3cc28a26-8af9-41a3-a136-fa4342504166
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3cc28a26-8af9-41a3-a136-fa4342504166
+[NotebookApp | INFO] Saving file at /Section3-Kmeans-dim-reduction/BasicAnalysis/plot_color_quantization.ipynb
+[NotebookApp | INFO] Saving file at /Section3-Kmeans-dim-reduction/BasicAnalysis/plot_cluster_iris.ipynb
+[NotebookApp | WARNING] Notebook Section3-Kmeans-dim-reduction/BasicAnalysis/plot_cluster_iris.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.ipynb
+[NotebookApp | INFO] Saving file at /Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.ipynb
+[NotebookApp | INFO] Starting buffering for 3cc28a26-8af9-41a3-a136-fa4342504166:a8d0cdeb6856408c9fa4435cd28f56b4
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200507234010 (172.17.0.1) 2.06ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3cc28a26-8af9-41a3-a136-fa4342504166
+[NotebookApp | INFO] Starting buffering for 3cc28a26-8af9-41a3-a136-fa4342504166:0d2fcccbc4dd48188340855be89fdb6b
+[NotebookApp | INFO] Kernel restarted: 3cc28a26-8af9-41a3-a136-fa4342504166
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3cc28a26-8af9-41a3-a136-fa4342504166
+[NotebookApp | INFO] Restoring connection for 3cc28a26-8af9-41a3-a136-fa4342504166:0d2fcccbc4dd48188340855be89fdb6b
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.css (172.17.0.1): No such file or directory: Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.css
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.css (172.17.0.1) 5.82ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/rise.css (172.17.0.1): No such file or directory: Section3-Kmeans-dim-reduction/BasicAnalysis/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/rise.css (172.17.0.1) 3.98ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/rise.css (172.17.0.1): No such file or directory: Section3-Kmeans-dim-reduction/BasicAnalysis/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/rise.css (172.17.0.1) 6.72ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.css (172.17.0.1): No such file or directory: Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.css
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.css (172.17.0.1) 5.29ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.ipynb
+[NotebookApp | INFO] Saving file at /Section3-Kmeans-dim-reduction/BasicAnalysis/1.animated_Kmeans.ipynb
+[NotebookApp | WARNING] Notebook Section3-Kmeans-dim-reduction/BasicAnalysis/2.Kmeans, Theory.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7ece604f-10a6-4917-a15f-677bd26b3f10
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200507234010 (172.17.0.1) 4.85ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/2.Kmeans%2C%20Theory.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7ece604f-10a6-4917-a15f-677bd26b3f10
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/2.Kmeans%2C%20Theory.css (172.17.0.1): No such file or directory: Section3-Kmeans-dim-reduction/BasicAnalysis/2.Kmeans, Theory.css
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/2.Kmeans%2C%20Theory.css (172.17.0.1) 11.74ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/2.Kmeans%2C%20Theory.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/rise.css (172.17.0.1): No such file or directory: Section3-Kmeans-dim-reduction/BasicAnalysis/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/rise.css (172.17.0.1) 8.91ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/2.Kmeans%2C%20Theory.ipynb
+[NotebookApp | INFO] Saving file at /Section3-Kmeans-dim-reduction/BasicAnalysis/2.Kmeans, Theory.ipynb
+[NotebookApp | WARNING] Notebook Section3-Kmeans-dim-reduction/BasicAnalysis/3.Exploring K-means.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200507234010 (172.17.0.1) 2.54ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/3.Exploring%20K-means.ipynb
+[NotebookApp | INFO] Kernel started: ec6f9834-fec0-46d5-b6b4-d7ed10ca5783
+[NotebookApp | INFO] 302 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/Figs/Elbow.png (172.17.0.1) 8.25ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ec6f9834-fec0-46d5-b6b4-d7ed10ca5783
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/3.Exploring%20K-means.css (172.17.0.1): No such file or directory: Section3-Kmeans-dim-reduction/BasicAnalysis/3.Exploring K-means.css
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/3.Exploring%20K-means.css (172.17.0.1) 9.00ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/3.Exploring%20K-means.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/rise.css (172.17.0.1): No such file or directory: Section3-Kmeans-dim-reduction/BasicAnalysis/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/rise.css (172.17.0.1) 6.61ms referer=http://localhost:8888/notebooks/Section3-Kmeans-dim-reduction/BasicAnalysis/3.Exploring%20K-means.ipynb
+[NotebookApp | INFO] Saving file at /Section3-Kmeans-dim-reduction/BasicAnalysis/3.Exploring K-means.ipynb
+[NotebookApp | WARNING] Notebook Section3-Kmeans-dim-reduction/BasicAnalysis/3.Exploring K-means.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for ec6f9834-fec0-46d5-b6b4-d7ed10ca5783:dcbbc019dc904f098ac800d0932565c2
+[NotebookApp | INFO] Starting buffering for 7ece604f-10a6-4917-a15f-677bd26b3f10:58ff9fcd645348d78886eda8671bce2a
+[NotebookApp | INFO] Starting buffering for 3cc28a26-8af9-41a3-a136-fa4342504166:0d2fcccbc4dd48188340855be89fdb6b
+[NotebookApp | INFO] Starting buffering for c2cdad9c-253a-470d-8af5-1b487ee81d69:6fcd22b4f9fa4a909e1615750f3d8b9d
+[NotebookApp | INFO] Starting buffering for f4898874-98b0-414a-8e9f-d81a83db47b5:265ba6c34f274f748d5b2a33df03451b
