@@ -1,0 +1,32 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 0.66ms
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Data_Processing_Whales.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: bd675cb1-0df2-44f9-9491-632ce7d71453
+[NotebookApp | INFO] 302 GET /notebooks/intro.jpg (172.17.0.1) 7.39ms
+[NotebookApp | INFO] 302 GET /notebooks/Cuv_Ger.jpg (172.17.0.1) 6.99ms
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200516212622 (172.17.0.1) 17.88ms referer=http://localhost:8888/notebooks/Data_Processing_Whales.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel bd675cb1-0df2-44f9-9491-632ce7d71453
+[NotebookApp | INFO] Starting buffering for bd675cb1-0df2-44f9-9491-632ce7d71453:9de0142a41844f889079f3981166f2be
+[NotebookApp | INFO] Kernel restarted: bd675cb1-0df2-44f9-9491-632ce7d71453
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel bd675cb1-0df2-44f9-9491-632ce7d71453
+[NotebookApp | INFO] Restoring connection for bd675cb1-0df2-44f9-9491-632ce7d71453:9de0142a41844f889079f3981166f2be
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | WARNING] Notebook XGBoost_Whales.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200516212622 (172.17.0.1) 6.59ms referer=http://localhost:8888/notebooks/XGBoost_Whales.ipynb
+[NotebookApp | INFO] Kernel started: 2b71d43d-b81b-4728-a1e9-d35ad5fd73ed
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2b71d43d-b81b-4728-a1e9-d35ad5fd73ed
+[NotebookApp | INFO] Saving file at /Data_Processing_Whales.ipynb
+[NotebookApp | INFO] Saving file at /XGBoost_Whales.ipynb
+[NotebookApp | INFO] Saving file at /XGBoost_Whales.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: bd675cb1-0df2-44f9-9491-632ce7d71453
+[NotebookApp | INFO] Kernel shutdown: 2b71d43d-b81b-4728-a1e9-d35ad5fd73ed

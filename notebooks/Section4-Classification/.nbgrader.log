@@ -1,0 +1,29 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook XGBoost/Data_Processing_Whales.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 5a212216-3988-4f61-bf6e-dd685d3833e5
+[NotebookApp | INFO] 302 GET /notebooks/XGBoost/intro.jpg (172.17.0.1) 17.21ms
+[NotebookApp | INFO] 302 GET /notebooks/XGBoost/Cuv_Ger.jpg (172.17.0.1) 27.39ms
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200514171250 (172.17.0.1) 27.65ms referer=http://localhost:8888/notebooks/XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a212216-3988-4f61-bf6e-dd685d3833e5
+[NotebookApp | INFO] Saving file at /XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | WARNING] Notebook XGBoost/Data_Processing_Whales.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | WARNING] Notebook XGBoost/Data_Processing_Whales.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | WARNING] Notebook XGBoost/Data_Processing_Whales.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | WARNING] Notebook XGBoost/XGBoost_Whales.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7926429e-45aa-4ad1-9618-6b8bdf1a6b5c
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200514171250 (172.17.0.1) 9.00ms referer=http://localhost:8888/notebooks/XGBoost/XGBoost_Whales.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7926429e-45aa-4ad1-9618-6b8bdf1a6b5c
+[NotebookApp | INFO] Saving file at /XGBoost/XGBoost_Whales.ipynb
+[NotebookApp | WARNING] Notebook XGBoost/XGBoost_Whales.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 7926429e-45aa-4ad1-9618-6b8bdf1a6b5c:ea5ad015f93c46138d5baa72761b0251
+[NotebookApp | INFO] Starting buffering for 5a212216-3988-4f61-bf6e-dd685d3833e5:0e6dc88833b844caa1a9a9787bd4d51f
