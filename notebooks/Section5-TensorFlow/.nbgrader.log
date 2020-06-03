@@ -1,0 +1,184 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 97850a9d-5ac9-409b-b7fc-23dad4835f55
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/edge.jpg (172.17.0.1) 27.80ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/3by3edge.png (172.17.0.1) 17.07ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/Dropout.png (172.17.0.1) 8.21ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/convolutional_neural_network.png (172.17.0.1) 5.06ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/pool.png (172.17.0.1) 6.26ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 97850a9d-5ac9-409b-b7fc-23dad4835f55
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200529210101 (172.17.0.1) 15.84ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 97850a9d-5ac9-409b-b7fc-23dad4835f55:17a7cd49e7624c3f9e76e9ea000fc062
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 97850a9d-5ac9-409b-b7fc-23dad4835f55
+[NotebookApp | INFO] Restoring connection for 97850a9d-5ac9-409b-b7fc-23dad4835f55:17a7cd49e7624c3f9e76e9ea000fc062
+[NotebookApp | INFO] Starting buffering for 97850a9d-5ac9-409b-b7fc-23dad4835f55:17a7cd49e7624c3f9e76e9ea000fc062
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 1.38ms
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d02be8d7-b668-4ffc-a61d-9729e1b7bed7
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/LinearRegression_lucidchart.png (172.17.0.1) 79.28ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/LinearRegression.PNG (172.17.0.1) 34.18ms
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200530201308 (172.17.0.1) 28.84ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d02be8d7-b668-4ffc-a61d-9729e1b7bed7
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 9.47ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/1.Linear-Regression.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.css (172.17.0.1) 8.09ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for d02be8d7-b668-4ffc-a61d-9729e1b7bed7:f0b0f4811cbc495785272c0d543b022a
+[NotebookApp | INFO] Kernel restarted: d02be8d7-b668-4ffc-a61d-9729e1b7bed7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d02be8d7-b668-4ffc-a61d-9729e1b7bed7
+[NotebookApp | INFO] Restoring connection for d02be8d7-b668-4ffc-a61d-9729e1b7bed7:f0b0f4811cbc495785272c0d543b022a
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 7.49ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/1.Linear-Regression.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.css (172.17.0.1) 7.12ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 10.00ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/1.Linear-Regression.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.css (172.17.0.1) 6.09ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 8.03ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/1.Linear-Regression.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.css (172.17.0.1) 5.92ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | INFO] Starting buffering for d02be8d7-b668-4ffc-a61d-9729e1b7bed7:f0b0f4811cbc495785272c0d543b022a
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/LinearRegression_lucidchart.png (172.17.0.1) 14.90ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/LinearRegression.PNG (172.17.0.1) 20.36ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d02be8d7-b668-4ffc-a61d-9729e1b7bed7
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200530201308 (172.17.0.1) 2.83ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | INFO] Starting buffering for d02be8d7-b668-4ffc-a61d-9729e1b7bed7:d15e98c46df94b27b43bc42ec3535fbf
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/LinearRegression_lucidchart.png (172.17.0.1) 12.32ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/LinearRegression.PNG (172.17.0.1) 12.51ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d02be8d7-b668-4ffc-a61d-9729e1b7bed7
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200530201308 (172.17.0.1) 3.45ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 4.90ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/1.Linear-Regression.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.css (172.17.0.1) 6.57ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/2.Logistic-Regression.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 03e492b6-424b-4265-8617-0e7db86de5f2
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/TensorFlow.png (172.17.0.1) 38.51ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/TensorboardInit1.PNG (172.17.0.1) 30.92ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/TensorboardInit2.PNG (172.17.0.1) 37.34ms
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200530201308 (172.17.0.1) 7.64ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/2.Logistic-Regression.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 03e492b6-424b-4265-8617-0e7db86de5f2
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/1.Linear-Regression.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 4.71ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/2.Logistic-Regression.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/2.Logistic-Regression.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/2.Logistic-Regression.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/2.Logistic-Regression.css (172.17.0.1) 4.57ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/2.Logistic-Regression.ipynb
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/2.Logistic-Regression.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 6.03ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/2.Logistic-Regression.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/2.Logistic-Regression.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/2.Logistic-Regression.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/2.Logistic-Regression.css (172.17.0.1) 6.07ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/2.Logistic-Regression.ipynb
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/2.Logistic-Regression.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/3.Neural-Networks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7016a98f-ac49-420b-9f99-fd268f7ee538
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/NNWithWeights.PNG (172.17.0.1) 11.23ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/NNTensorboard.PNG (172.17.0.1) 60.90ms
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200530201308 (172.17.0.1) 5.08ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/3.Neural-Networks.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7016a98f-ac49-420b-9f99-fd268f7ee538
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/3.Neural-Networks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 16.41ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/3.Neural-Networks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/3.Neural-Networks.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/3.Neural-Networks.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/3.Neural-Networks.css (172.17.0.1) 6.05ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/3.Neural-Networks.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/4.Neural Network learning using predefined estimators.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e9c6ad3f-9fe3-4f9f-8d2a-2e1bb0183e4d
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200530201308 (172.17.0.1) 12.69ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/4.Neural%20Network%20learning%20using%20predefined%20estimators.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e9c6ad3f-9fe3-4f9f-8d2a-2e1bb0183e4d
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 6.02ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/4.Neural%20Network%20learning%20using%20predefined%20estimators.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/4.Neural%20Network%20learning%20using%20predefined%20estimators.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/4.Neural Network learning using predefined estimators.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/4.Neural%20Network%20learning%20using%20predefined%20estimators.css (172.17.0.1) 5.18ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/4.Neural%20Network%20learning%20using%20predefined%20estimators.ipynb
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/4.Neural Network learning using predefined estimators.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/4.Neural Network learning using predefined estimators.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/4.Neural Network learning using predefined estimators.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/4.Neural Network learning using predefined estimators.ipynb is not trusted
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 99d9680b-1cb5-4cf5-8db9-e0016f504176
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/convolutional_neural_network.png (172.17.0.1) 21.03ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/pool.png (172.17.0.1) 8.48ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/edge.jpg (172.17.0.1) 16.88ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/3by3edge.png (172.17.0.1) 12.15ms
+[NotebookApp | INFO] 302 GET /notebooks/notebooks/DSE230-Notebooks/img/Dropout.png (172.17.0.1) 12.08ms
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200530201308 (172.17.0.1) 4.78ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 99d9680b-1cb5-4cf5-8db9-e0016f504176
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.css (172.17.0.1) 6.50ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 5.17ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/4.Neural%20Network%20learning%20using%20predefined%20estimators.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/4.Neural Network learning using predefined estimators.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/4.Neural%20Network%20learning%20using%20predefined%20estimators.css (172.17.0.1) 8.37ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/4.Neural%20Network%20learning%20using%20predefined%20estimators.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 4.63ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/4.Neural%20Network%20learning%20using%20predefined%20estimators.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/5.Neural-Networks-with-Custom-Estimators.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f87bdfd1-c567-495a-95e7-93229bced2ff
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200530201308 (172.17.0.1) 3.76ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/5.Neural-Networks-with-Custom-Estimators.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f87bdfd1-c567-495a-95e7-93229bced2ff
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/5.Neural-Networks-with-Custom-Estimators.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/5.Neural-Networks-with-Custom-Estimators.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/5.Neural-Networks-with-Custom-Estimators.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/5.Neural-Networks-with-Custom-Estimators.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/5.Neural-Networks-with-Custom-Estimators.css (172.17.0.1) 13.59ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/5.Neural-Networks-with-Custom-Estimators.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 5.12ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/5.Neural-Networks-with-Custom-Estimators.ipynb
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/5.Neural-Networks-with-Custom-Estimators.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/5.Neural-Networks-with-Custom-Estimators.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/5.Neural-Networks-with-Custom-Estimators.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/5.Neural-Networks-with-Custom-Estimators.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 10.06ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.css (172.17.0.1) 7.29ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.css (172.17.0.1) 13.05ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 8.59ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/rise.css (172.17.0.1) 7.02ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.css (172.17.0.1): No such file or directory: notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.css
+[NotebookApp | WARNING] 404 GET /notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.css (172.17.0.1) 3.71ms referer=http://localhost:8888/notebooks/notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | INFO] Saving file at /notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb
+[NotebookApp | WARNING] Notebook notebooks/DSE230-Notebooks/6.Convolutional-Neural-Networks.ipynb is not trusted
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 6 kernels
+[NotebookApp | INFO] Kernel shutdown: d02be8d7-b668-4ffc-a61d-9729e1b7bed7
+[NotebookApp | INFO] Kernel shutdown: 03e492b6-424b-4265-8617-0e7db86de5f2
+[NotebookApp | INFO] Kernel shutdown: 7016a98f-ac49-420b-9f99-fd268f7ee538
+[NotebookApp | INFO] Kernel shutdown: e9c6ad3f-9fe3-4f9f-8d2a-2e1bb0183e4d
+[NotebookApp | INFO] Kernel shutdown: 99d9680b-1cb5-4cf5-8db9-e0016f504176
+[NotebookApp | INFO] Kernel shutdown: f87bdfd1-c567-495a-95e7-93229bced2ff

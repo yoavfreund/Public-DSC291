@@ -5,25 +5,54 @@
 [NotebookApp | INFO] The Jupyter Notebook is running at:
 [NotebookApp | INFO] http://[all ip addresses on your system]:8888/
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /api/kernels/bd675cb1-0df2-44f9-9491-632ce7d71453/channels?session_id=9de0142a41844f889079f3981166f2be (172.17.0.1): Kernel does not exist: bd675cb1-0df2-44f9-9491-632ce7d71453
+[NotebookApp | WARNING] 404 GET /api/kernels/bd675cb1-0df2-44f9-9491-632ce7d71453/channels?session_id=9de0142a41844f889079f3981166f2be (172.17.0.1) 57.26ms referer=None
 [NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
 [NotebookApp | WARNING] Notebook XGBoost/Data_Processing_Whales.ipynb is not trusted
-[NotebookApp | INFO] Kernel started: 5a212216-3988-4f61-bf6e-dd685d3833e5
-[NotebookApp | INFO] 302 GET /notebooks/XGBoost/intro.jpg (172.17.0.1) 17.21ms
-[NotebookApp | INFO] 302 GET /notebooks/XGBoost/Cuv_Ger.jpg (172.17.0.1) 27.39ms
-[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200514171250 (172.17.0.1) 27.65ms referer=http://localhost:8888/notebooks/XGBoost/Data_Processing_Whales.ipynb
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a212216-3988-4f61-bf6e-dd685d3833e5
-[NotebookApp | INFO] Saving file at /XGBoost/Data_Processing_Whales.ipynb
-[NotebookApp | WARNING] Notebook XGBoost/Data_Processing_Whales.ipynb is not trusted
-[NotebookApp | INFO] Saving file at /XGBoost/Data_Processing_Whales.ipynb
-[NotebookApp | WARNING] Notebook XGBoost/Data_Processing_Whales.ipynb is not trusted
-[NotebookApp | INFO] Saving file at /XGBoost/Data_Processing_Whales.ipynb
-[NotebookApp | WARNING] Notebook XGBoost/Data_Processing_Whales.ipynb is not trusted
-[NotebookApp | INFO] Saving file at /XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | INFO] Kernel started: 63e371d5-7cbe-4ea7-9a97-af4f32fd5215
+[NotebookApp | INFO] 302 GET /notebooks/XGBoost/Cuv_Ger.jpg (172.17.0.1) 8.09ms
+[NotebookApp | INFO] 302 GET /notebooks/XGBoost/intro.jpg (172.17.0.1) 6.92ms
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200516213725 (172.17.0.1) 3.09ms referer=http://localhost:8888/notebooks/XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 63e371d5-7cbe-4ea7-9a97-af4f32fd5215
 [NotebookApp | WARNING] Notebook XGBoost/XGBoost_Whales.ipynb is not trusted
-[NotebookApp | INFO] Kernel started: 7926429e-45aa-4ad1-9618-6b8bdf1a6b5c
-[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200514171250 (172.17.0.1) 9.00ms referer=http://localhost:8888/notebooks/XGBoost/XGBoost_Whales.ipynb
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7926429e-45aa-4ad1-9618-6b8bdf1a6b5c
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20200516213725 (172.17.0.1) 14.44ms referer=http://localhost:8888/notebooks/XGBoost/XGBoost_Whales.ipynb
+[NotebookApp | INFO] Kernel started: fdfaa801-8b4f-4d81-9232-29512cef0e32
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fdfaa801-8b4f-4d81-9232-29512cef0e32
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/Data_Processing_Whales.css (172.17.0.1): No such file or directory: XGBoost/Data_Processing_Whales.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/Data_Processing_Whales.css (172.17.0.1) 13.02ms referer=http://localhost:8888/notebooks/XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1): No such file or directory: XGBoost/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1) 21.88ms referer=http://localhost:8888/notebooks/XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/Data_Processing_Whales.css (172.17.0.1): No such file or directory: XGBoost/Data_Processing_Whales.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/Data_Processing_Whales.css (172.17.0.1) 7.28ms referer=http://localhost:8888/notebooks/XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1): No such file or directory: XGBoost/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1) 5.84ms referer=http://localhost:8888/notebooks/XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | INFO] Saving file at /XGBoost/Data_Processing_Whales.ipynb
 [NotebookApp | INFO] Saving file at /XGBoost/XGBoost_Whales.ipynb
-[NotebookApp | WARNING] Notebook XGBoost/XGBoost_Whales.ipynb is not trusted
-[NotebookApp | INFO] Starting buffering for 7926429e-45aa-4ad1-9618-6b8bdf1a6b5c:ea5ad015f93c46138d5baa72761b0251
-[NotebookApp | INFO] Starting buffering for 5a212216-3988-4f61-bf6e-dd685d3833e5:0e6dc88833b844caa1a9a9787bd4d51f
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/Data_Processing_Whales.css (172.17.0.1): No such file or directory: XGBoost/Data_Processing_Whales.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/Data_Processing_Whales.css (172.17.0.1) 4.47ms referer=http://localhost:8888/notebooks/XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1): No such file or directory: XGBoost/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1) 3.80ms referer=http://localhost:8888/notebooks/XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1): No such file or directory: XGBoost/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1) 4.27ms referer=http://localhost:8888/notebooks/XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/Data_Processing_Whales.css (172.17.0.1): No such file or directory: XGBoost/Data_Processing_Whales.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/Data_Processing_Whales.css (172.17.0.1) 3.34ms referer=http://localhost:8888/notebooks/XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1): No such file or directory: XGBoost/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1) 5.03ms referer=http://localhost:8888/notebooks/XGBoost/XGBoost_Whales.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/XGBoost_Whales.css (172.17.0.1): No such file or directory: XGBoost/XGBoost_Whales.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/XGBoost_Whales.css (172.17.0.1) 4.49ms referer=http://localhost:8888/notebooks/XGBoost/XGBoost_Whales.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1): No such file or directory: XGBoost/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1) 5.14ms referer=http://localhost:8888/notebooks/XGBoost/XGBoost_Whales.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/XGBoost_Whales.css (172.17.0.1): No such file or directory: XGBoost/XGBoost_Whales.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/XGBoost_Whales.css (172.17.0.1) 16.71ms referer=http://localhost:8888/notebooks/XGBoost/XGBoost_Whales.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/XGBoost_Whales.css (172.17.0.1): No such file or directory: XGBoost/XGBoost_Whales.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/XGBoost_Whales.css (172.17.0.1) 4.97ms referer=http://localhost:8888/notebooks/XGBoost/XGBoost_Whales.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1): No such file or directory: XGBoost/rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/XGBoost/rise.css (172.17.0.1) 4.80ms referer=http://localhost:8888/notebooks/XGBoost/XGBoost_Whales.ipynb
+[NotebookApp | INFO] Starting buffering for fdfaa801-8b4f-4d81-9232-29512cef0e32:6d759499a9a44bc5876d15cdbecb8f5e
+[NotebookApp | INFO] Starting buffering for 63e371d5-7cbe-4ea7-9a97-af4f32fd5215:7f443263825048adb0b749b4c9cb798e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fdfaa801-8b4f-4d81-9232-29512cef0e32
+[NotebookApp | INFO] Restoring connection for fdfaa801-8b4f-4d81-9232-29512cef0e32:6d759499a9a44bc5876d15cdbecb8f5e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 63e371d5-7cbe-4ea7-9a97-af4f32fd5215
+[NotebookApp | INFO] Restoring connection for 63e371d5-7cbe-4ea7-9a97-af4f32fd5215:7f443263825048adb0b749b4c9cb798e
+[NotebookApp | INFO] Saving file at /XGBoost/XGBoost_Whales.ipynb
+[NotebookApp | INFO] Saving file at /XGBoost/Data_Processing_Whales.ipynb

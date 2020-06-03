@@ -1,0 +1,14 @@
+training_data_path: ./higgs_large.csv
+test_data_path: ./higgs_test_large.csv
+test_output_path: write some? do we need it?
+output_pickle_path: write some? do we need it?
+training_to_validation_ratio: 0.8
+early_stopping_patience: 5
+learning_rate: 0.05
+max_epochs: 2000
+num_mini_batches: 100
+display_step: 50
+use_biases: true
+hidden_layer_sizes: 
+    first_layer: 20
+    second_layer: 8

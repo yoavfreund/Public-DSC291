@@ -1,0 +1,134 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work/notebooks
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /edit/orig_notebooks (172.17.0.1): File does not exist: orig_notebooks
+[NotebookApp | WARNING] 404 GET /edit/orig_notebooks (172.17.0.1) 60.43ms referer=http://localhost:8888/tree
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: aa61d9aa-7dda-4380-a648-483f1baf98ff
+[NotebookApp | WARNING] 404 GET /resources/img/LinearRegression.png (172.17.0.1) 3.33ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit2.PNG (172.17.0.1): No such file or directory: resources/img/TensorboardInit2.PNG
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit2.PNG (172.17.0.1) 4.40ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit1.PNG (172.17.0.1): No such file or directory: resources/img/TensorboardInit1.PNG
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit1.PNG (172.17.0.1) 3.62ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorFlow.png (172.17.0.1): No such file or directory: resources/img/TensorFlow.png
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorFlow.png (172.17.0.1) 3.38ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel aa61d9aa-7dda-4380-a648-483f1baf98ff
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook 2_BasicModels/linear_regression_eager_api.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d3522d65-4402-4b05-a1df-7c8fd873d941
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d3522d65-4402-4b05-a1df-7c8fd873d941
+[NotebookApp | INFO] Saving file at /2_BasicModels/linear_regression_eager_api.ipynb
+[NotebookApp | WARNING] Notebook 2_BasicModels/linear_regression_eager_api.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /2_BasicModels/linear_regression_eager_api.ipynb
+[NotebookApp | WARNING] Notebook 2_BasicModels/linear_regression.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 2ed47f19-758b-4b17-b51e-f31d177e2483
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2ed47f19-758b-4b17-b51e-f31d177e2483
+[NotebookApp | INFO] Saving file at /2_BasicModels/linear_regression.ipynb
+[NotebookApp | INFO] Starting buffering for 2ed47f19-758b-4b17-b51e-f31d177e2483:a45b864f65c6425baafe8c94728a2eb4
+[NotebookApp | INFO] Starting buffering for d3522d65-4402-4b05-a1df-7c8fd873d941:36008c425642448bbb1d178cc62c4da3
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 089961b2-38b7-4d22-9f7e-4fb28af45bd6
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorFlow.png (172.17.0.1): No such file or directory: resources/img/TensorFlow.png
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorFlow.png (172.17.0.1) 14.92ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /resources/img/LinearRegression.png (172.17.0.1) 1.80ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit1.PNG (172.17.0.1): No such file or directory: resources/img/TensorboardInit1.PNG
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit1.PNG (172.17.0.1) 2.40ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit2.PNG (172.17.0.1): No such file or directory: resources/img/TensorboardInit2.PNG
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit2.PNG (172.17.0.1) 2.10ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 089961b2-38b7-4d22-9f7e-4fb28af45bd6
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Copying DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb to /DSE255-Notebooks
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/1-Copy1.Logistic-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/1-Copy1.Logistic-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8bba63d3-0062-4f78-8aff-377b6206f6b5
+[NotebookApp | WARNING] 404 GET /resources/img/LinearRegression.png (172.17.0.1) 1.81ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1-Copy1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit1.PNG (172.17.0.1): No such file or directory: resources/img/TensorboardInit1.PNG
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit1.PNG (172.17.0.1) 3.43ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1-Copy1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit2.PNG (172.17.0.1): No such file or directory: resources/img/TensorboardInit2.PNG
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit2.PNG (172.17.0.1) 2.01ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1-Copy1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorFlow.png (172.17.0.1): No such file or directory: resources/img/TensorFlow.png
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorFlow.png (172.17.0.1) 2.17ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1-Copy1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8bba63d3-0062-4f78-8aff-377b6206f6b5
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 089961b2-38b7-4d22-9f7e-4fb28af45bd6:f1d00157bd0e42e88d5014c8895c5e4d
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /resources/img/LinearRegression.png (172.17.0.1) 1.54ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit1.PNG (172.17.0.1): No such file or directory: resources/img/TensorboardInit1.PNG
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit1.PNG (172.17.0.1) 2.15ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorFlow.png (172.17.0.1): No such file or directory: resources/img/TensorFlow.png
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorFlow.png (172.17.0.1) 2.01ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit2.PNG (172.17.0.1): No such file or directory: resources/img/TensorboardInit2.PNG
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit2.PNG (172.17.0.1) 2.01ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 089961b2-38b7-4d22-9f7e-4fb28af45bd6
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/1.Logistic-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 8bba63d3-0062-4f78-8aff-377b6206f6b5:f56ee8b720904991b2e78aae4b80f9d4
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /resources/img/LinearRegression.png (172.17.0.1) 1.59ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit1.PNG (172.17.0.1): No such file or directory: resources/img/TensorboardInit1.PNG
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit1.PNG (172.17.0.1) 2.52ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit2.PNG (172.17.0.1): No such file or directory: resources/img/TensorboardInit2.PNG
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorboardInit2.PNG (172.17.0.1) 2.05ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorFlow.png (172.17.0.1): No such file or directory: resources/img/TensorFlow.png
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/TensorFlow.png (172.17.0.1) 1.91ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8bba63d3-0062-4f78-8aff-377b6206f6b5
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/2.Neural-Networks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 02018b08-ec86-406b-9b1f-f4536e8c4cd4
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/NNWithWeights.PNG (172.17.0.1): No such file or directory: resources/img/NNWithWeights.PNG
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/NNWithWeights.PNG (172.17.0.1) 5.02ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/2.Neural-Networks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/NNTensorboard.PNG (172.17.0.1): No such file or directory: resources/img/NNTensorboard.PNG
+[NotebookApp | WARNING] 404 GET /notebooks/resources/img/NNTensorboard.PNG (172.17.0.1) 2.64ms referer=http://localhost:8888/notebooks/DSE255-Notebooks/2.Neural-Networks.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 02018b08-ec86-406b-9b1f-f4536e8c4cd4
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb
+[NotebookApp | WARNING] Notebook DSE255-Notebooks/Linear-Regression-In-TensorFlow.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 8bba63d3-0062-4f78-8aff-377b6206f6b5:44ee48ce526646248d79256f97603e76
+[NotebookApp | INFO] Starting buffering for 089961b2-38b7-4d22-9f7e-4fb28af45bd6:5a588fad120144cb9691f48ce36349f2
+[NotebookApp | INFO] Starting buffering for 02018b08-ec86-406b-9b1f-f4536e8c4cd4:f81b79c5c54e48428ba8790ee4bcbdce
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 3 kernels
+[NotebookApp | INFO] Kernel shutdown: 089961b2-38b7-4d22-9f7e-4fb28af45bd6
+[NotebookApp | INFO] Kernel shutdown: 8bba63d3-0062-4f78-8aff-377b6206f6b5
+[NotebookApp | INFO] Kernel shutdown: 02018b08-ec86-406b-9b1f-f4536e8c4cd4
