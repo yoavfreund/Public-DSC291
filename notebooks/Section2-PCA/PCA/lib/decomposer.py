@@ -1,5 +1,5 @@
 import numpy as np
-from lib.numpy_pack import packArray,unpackArray
+from lib.numpy_pack import packArray,unpackArray,unpackAndScale
 from pyspark.sql import Row
 
 class Eigen_decomp:
@@ -86,7 +86,7 @@ def decompose_dataframe(sqlContext,df,EigVec,Mean):
         Mean and EigVec are sent to the workers as global variables of "decompose"
 
         """
-        Series=np.array(unpackArray(row.Values,np.float16),dtype=np.float64)
+        Series=np.array(unpackAndScale(row),dtype=np.float64)
         recon=Eigen_decomp(None,Series,Mean,EigVec);
         total_var,residuals,coeff=recon.compute_var_explained()
 
@@ -101,4 +101,3 @@ def decompose_dataframe(sqlContext,df,EigVec,Mean):
     #body of decompose_dataframe
     rdd2=df.rdd.map(decompose)
     return sqlContext.createDataFrame(rdd2)
-

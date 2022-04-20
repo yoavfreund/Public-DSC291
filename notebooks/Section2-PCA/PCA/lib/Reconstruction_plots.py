@@ -1,7 +1,7 @@
 import numpy as np
 import pylab as plt
 
-from lib.numpy_pack import packArray,unpackArray
+from lib.numpy_pack import packArray,unpackArray,unpackAndScale
 from lib.decomposer import *
 from lib.YearPlotter import YearPlotter
 import matplotlib.pyplot as plt
@@ -97,7 +97,7 @@ class recon_plot:
             #print('in plot_combinations, U.shape=',self.eigen_decomp.U.shape)
             g=self.eigen_decomp.U[:,i]*coeff['c'+str(i)]
             A=A+g
-            self.plot(A,label='c'+str(i))
+            self.plot(A,label='approx '+str(i+1))
         self.plot(self.eigen_decomp.f,label='target')
         self.ax.grid(figure=self.fig)        
         self.ax.legend()
@@ -125,7 +125,7 @@ def plot_decomp(row,Mean,EigVec,fig=None,ax=None,Title=None,interactive=False):
     :rtype: recon_plot
 
     """
-    target=np.array(unpackArray(row.Values,np.float16),dtype=np.float64)
+    target=np.array(unpackAndScale(row),dtype=np.float64)
     if Title is None:
         Title='%s / %d    %s'%(row['station'],row['year'],row['measurement'])
     eigen_decomp=Eigen_decomp(range(1,366),target,Mean,EigVec)
